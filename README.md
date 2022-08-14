@@ -21,6 +21,11 @@ Trouble with CSS header - would not align properly with "text-align: center;". H
 
 [Link to the deployed website](https://brandondijon.github.io/horiseon-code-refractor/)
 
+## Site
+
+![screenshot](https://user-images.githubusercontent.com/108966627/184518001-c1ed86e0-aa98-4f92-a282-73f414cec9d0.jpg)
+
+
 
 ##  Installation
 
