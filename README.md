@@ -11,11 +11,11 @@ Trouble with CSS header - would not align properly with "text-align: center;". H
 
 ### Task completed
 
-*HTML elements were replaced with semantic HTML elemetns
-*alt text was added to images
-*Comments were provided in HTML document
-*CSS was reorganized 
-*Descriptive title added
+* HTML elements were replaced with semantic HTML elemetns
+* alt text was added to images
+* Comments were provided in HTML document
+* CSS was reorganized 
+* Descriptive title added
 
 ### Links
 
