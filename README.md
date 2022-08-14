@@ -19,7 +19,6 @@ Trouble with CSS header - would not align properly with "text-align: center;". H
 
 ### Links
 
-[Link to the deployed website](https://github.com/brandondijon/horiseon-code-refractor)
 [Link to the deployed website](https://brandondijon.github.io/horiseon-code-refractor/)
 
 
