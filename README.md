@@ -2,7 +2,7 @@
 
 ## Description
 
-This task is a code refactor for the Horiseon site landing page. The reasons for this refactoring is to make the past code more effective, intelligible and open. This refactoring ought to likewise bring about superior site design improvement.
+This task is a code refactor for the Horiseon site landing page. The reasons for this refactoring is to make the past code more effective, this refactoring brings about superior site design improvement.
 
 
 ### Challenges
